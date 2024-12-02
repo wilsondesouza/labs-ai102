@@ -4,9 +4,9 @@
 Neste repositório estarão reunidos alguns laboratórios desenvolvidos para absorção de conhecimento, além de conteúdo teórico e links úteis. 
 
 ## 📝 Sumário
-1. [Tradutor de Artigos Técnicos com AzureAI](https://github.com/wilsondesouza/labs-ai102/tree/main/1.%20Tradutor_Artigos-Tecnicos_AzureAI)
+1. [Tradutor de Artigos Técnicos com AzureAI](https://github.com/wilsondesouza/labs-ai102/tree/master/1.%20Tradutor_Artigos-Tecnicos_AzureAI)
 
-2. [Análise de Documentos Anti-fraude com AzureAI](https://github.com/wilsondesouza/labs-ai102/tree/main/2.%20Analise_Documentos_Anti-fraude_AzureAI)
+2. [Análise de Documentos Anti-fraude com AzureAI](https://github.com/wilsondesouza/labs-ai102/tree/master/2.%20Analise_Documentos_Anti-fraude_AzureAI)
 
 ## 📚 Links Úteis 
 

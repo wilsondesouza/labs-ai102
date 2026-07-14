@@ -1,7 +1,7 @@
 altair==5.5.0
 attrs==24.2.0
 azure-ai-documentintelligence==1.0.0b4
-azure-core==1.32.0
+azure-core==1.38.0
 azure-storage-blob==12.13.0
 blinker==1.9.0
 cachetools==5.5.0
